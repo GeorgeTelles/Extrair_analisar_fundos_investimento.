@@ -6,6 +6,10 @@
 
 # **Extrair e analisar dados de fundos de investimento**
 
+ [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeorgeTelles/Extrair_analisar_fundos_investimento./blob/main/Extrair_e_analisar_fundos_de_investimento.ipynb)
+
+
+
 Esse algoritmo em Python tem como objetivo obter dados de fundos de investimento direto da fonte: o portal de dados da CVM.
 
 Vou processar estes dados para posteriormente analisá-los.
